@@ -1,0 +1,13 @@
+./node_modules
+./dist
+./.env
+./.DS_Store
+./.vscode
+./.idea
+./.cache
+./.eslintcache
+./coverage
+./logs
+./*.log
+./*.lock
+./*.tmp
